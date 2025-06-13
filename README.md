@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Cesar 👋
 
 <!--
 **cesargomezs/cesargomezs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Experienced Full Stack Software Engineer with over 10 years of expertise in designing, developing, and maintaining enterprise-level web and mobile applications. Strong background in .NET technologies, SQL Server, Azure Cloud, and Agile methodologies. Proven track record of delivering scalable and reliable software solutions using SOLID principles and modern frameworks like Angular. Adept at collaborating across teams and leading technical initiatives from concept to deployment.
+🌱 I love this profession. Sometimes you don't sleep well, getting up early, being a dad isn't easy, and neither is being a developer, but perseverance and the desire to learn something new motivates you. Being able to help create solutions for people is satisfying, you have to leave your mark.
+
+⚡ I identify myself as a person eager for knowledge, learning and being able to share my knowledge with others.
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,dotnet,github,nodejs,php,postman,visualstudio,vscode,angular,azure)](https://skillicons.dev)
