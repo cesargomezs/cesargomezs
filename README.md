@@ -20,3 +20,11 @@ Here are some ideas to get you started:
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,dotnet,github,nodejs,php,postman,visualstudio,vscode,angular,azure)](https://skillicons.dev)
+
+## Connect with me
+
+<p>
+  <a href="www.linkedin.com/in/cesar-gomez-13782848" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+</p>
