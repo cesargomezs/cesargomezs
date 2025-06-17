@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 Open to new opportunities for progress
+🔭 Open to new opportunities for progress.
 
 🌱 I love this profession. Sometimes you don't sleep well, getting up early, being a dad isn't easy, and neither is being a developer, but perseverance and the desire to learn something new motivates you. Being able to help create solutions for people is satisfying, you have to leave your mark.
 
