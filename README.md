@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ⚡ I Identify myself as a person eager for knowledge, learning and being able to share my knowledge with others.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,dotnet,github,nodejs,php,postman,visualstudio,vscode,angular,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,dotnet,github,nodejs,php,postman,mysql,sqlserver,mongodb,windows,visualstudio,vscode,angular,java,azure)](https://skillicons.dev)
 
 ## Connect with me
 
